@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **omkar634@gmail.com**
 
+- 📰 Portfolio website : https://omkargupta333.github.io/P2/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
