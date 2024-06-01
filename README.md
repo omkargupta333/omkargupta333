@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkargupta333&label=Profile%20views&color=0e75b6&style=flat" alt="omkargupta333" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkargupta333" alt="omkargupta333" /></a> </p>
+
 - Customer Loan approval **Loan Prediction**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning , Business Tool, Deep Learning, SQL,**
