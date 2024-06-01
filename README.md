@@ -7,7 +7,7 @@
 - 🌱 I’m currently working as  **Data Scienctist, Data Analyst** at Fintree Finances Ltd
  - 💬 Ask me about **Data Analyst & Scientist at Fintree Finance || Specializing in Supply Chain Finance Analysis || Project Manager of "Whatsapp Chat Analyzer" 🌐 with 50k Users Seen**
 
-- Fake Data Analysis in Social Media [Whatsapp Chat Analyzer](https://chatanalysiswhatsapp.streamlit.app/)
+- Fake Data Analysis in Social Media with **1000+ Users** [Whatsapp Chat Analyzer](https://chatanalysiswhatsapp.streamlit.app/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omkar-gupta-89899623b](https://www.linkedin.com/in/omkar-gupta-89899623b)
 
