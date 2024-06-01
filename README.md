@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Gupta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Fthe-role-of-python-sql-and-r-in-data-analysis%2F&psig=AOvVaw3pvX7Ja3oNFcNK83jp64Br&ust=1717331007067000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiu-92yuoYDFQAAAAAdAAAAABAE)](https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif)"
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkargupta333&label=Profile%20views&color=0e75b6&style=flat" alt="omkargupta333" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkargupta333" alt="omkargupta333" /></a> </p>
