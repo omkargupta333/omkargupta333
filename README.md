@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkargupta333&label=Profile%20views&color=0e75b6&style=flat" alt="omkargupta333" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home?logo=twitter&style=for-the-badge" alt="https://x.com/home" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/omkarguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/omkarguptaji?logo=twitter&style=for-the-badge" alt="https://x.com/omkarguptaji" /></a> </p>
 
 - Customer Loan approval **Loan Prediction**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/home" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/omkarguptaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/omkarguptaji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/guptaomkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guptaomkar/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/?hl=en" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@omkarg634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@omkarg634" height="30" width="40" /></a>
