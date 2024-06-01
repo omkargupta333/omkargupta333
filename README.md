@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkargupta333&label=Profile%20views&color=0e75b6&style=flat" alt="omkargupta333" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science, Machine Learning , Business Tool, Deep Learning, SQL,**
+- 🌱 I’m currently working as  **Data Scienctist, Data Analyst** at Fintree Finances Ltd
+ - 💬 Ask me about **Data Analyst & Scientist at Fintree Finance || Specializing in Supply Chain Finance Analysis || Project Manager of "Whatsapp Chat Analyzer" 🌐 with 50k Users Seen**
 
 - Fake Data Analysis in Social Media [Whatsapp Chat Analyzer](https://chatanalysiswhatsapp.streamlit.app/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omkar-gupta-89899623b](https://www.linkedin.com/in/omkar-gupta-89899623b)
 
 - 📝 I regularly write articles on [https://medium.com/@omkarg634](https://medium.com/@omkarg634)
-
-- 💬 Ask me about **Data Analyst & Scientist at Fintree Finance || Specializing in Supply Chain Finance Analysis || Project Manager of "Whatsapp Chat Analyzer" 🌐 with 50k Users Seen**
 
 - 📫 How to reach me **omkar634@gmail.com**
 
