@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkargupta333&label=Profile%20views&color=0e75b6&style=flat" alt="omkargupta333" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning , Business Tool**
+- 🌱 I’m currently learning **Data Science, Machine Learning , Business Tool, AWS, SQL, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omkar-gupta-89899623b](https://www.linkedin.com/in/omkar-gupta-89899623b)
 
