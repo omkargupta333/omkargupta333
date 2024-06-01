@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkargupta333&label=Profile%20views&color=0e75b6&style=flat" alt="omkargupta333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkargupta333" alt="omkargupta333" /></a> </p>
-
 - Customer Loan approval **Loan Prediction**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning , Business Tool, Deep Learning, SQL,**
@@ -23,7 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/home" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/guptaomkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guptaomkar/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/?hl=en" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@omkarg634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@omkarg634" height="30" width="40" /></a>
 </p>
 
@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargupta333&show_icons=true&locale=en&layout=compact" alt="omkargupta333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkargupta333&show_icons=true&locale=en" alt="omkargupta333" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargupta333&" alt="omkargupta333" /></p>
