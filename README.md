@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently working as  **Data Scienctist, Data Analyst** at Fintree Finances Ltd
- - 💬 Ask me about **Data Analyst & Scientist at Fintree Finance || Specializing in Supply Chain Finance Analysis || Project Manager of "Whatsapp Chat Analyzer" 🌐 with 50k Users Seen**
+ - 💬 Ask me about **Data Analyst & Scientist at Fintree Finance || Specializing in Supply Chain Finance Analysis || Founder of "Whatsapp Chat Analyzer" 🌐 with 50k Users Seen**
 
 - Fake Data Analysis in Social Media with **1000+ Users** [Whatsapp Chat Analyzer](https://chatanalysiswhatsapp.streamlit.app/)
 
